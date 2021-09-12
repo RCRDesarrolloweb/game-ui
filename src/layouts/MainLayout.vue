@@ -53,7 +53,7 @@
         <q-toolbar-title>
           <div class="text-body2">Informacion del Sistema de Juego</div>
         </q-toolbar-title>
-        <div>
+        <div class="text-body2">
           Hora del servidor: 12:00:00
         </div>
       </q-toolbar>
