@@ -51,9 +51,9 @@
     <q-footer elevated class="bg-pink-13 text-white">
       <q-toolbar>
         <q-toolbar-title>
-          <div class="text-body2">Informacion del Sistema de Juego</div>
+          <div class="text-caption">Informacion del Sistema de Juego</div>
         </q-toolbar-title>
-        <div class="text-body2">
+        <div class="text-caption">
           Hora del servidor: 12:00:00
         </div>
       </q-toolbar>
